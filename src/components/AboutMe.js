@@ -7,7 +7,6 @@ const AboutMe = () => {
             THIS IS ABOUT ME! 
             I will upload soon...
         </h1>
-    <h2> A secret- class friend--- Vansh <h2/>
     </div>
   )
 }

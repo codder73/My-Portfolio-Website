@@ -1,3 +1,7 @@
+This webiste is deployed on the web.
+And the url is- dagarsingh.vercel.app
+You can go there and visit it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

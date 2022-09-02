@@ -68,7 +68,9 @@ h3 {
         grid-gap: 20px;
     }
     .left{
-        padding-top: 0;
+        /* padding-top: 0;
+         */
+         display: none;
     }
     .right{
         padding-bottom: 40px;

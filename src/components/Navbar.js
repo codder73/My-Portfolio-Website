@@ -2,6 +2,7 @@ import './Navbar.css';
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom';
 import {FaBars, FaTimes} from 'react-icons/fa';
+import pic from '../assets/Final.jpg';
 
 const Navbar = () => {
 
@@ -21,8 +22,8 @@ const Navbar = () => {
 
     return (
     <div className={color ? 'Header Header-bg' : "Header"}>
-        <Link to="/" scroll={true} duration="1000">
-            <h1>Portfolio</h1>
+        <Link to="/" scroll={true} duration="1000" className='Img'>
+            <img src={pic} alt="Image" />
         </Link>
         <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li>

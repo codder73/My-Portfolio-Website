@@ -85,5 +85,9 @@
     .hamburger {
         display: initial;
     }
+
+    .Header Img{
+        width: auto;
+    }
 }
     

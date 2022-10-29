@@ -6,7 +6,8 @@
 
 .heading {
     font-size: 30px;
-    padding-bottom: 1rem;
+    padding-bottom: 1.5rem;
+    color: antiquewhite;
 }
 
 .card-container {
@@ -24,10 +25,13 @@
     text-align: center;
     padding: 10px;
     height: auto;
+    border-radius: 90px;
 }
 
 .card:hover {
-    background-color: #141414;
+    background-color: #473514;
+    transform: scale(1.1);
+    transition-duration: 100ms;
 }
 
 .card h3{

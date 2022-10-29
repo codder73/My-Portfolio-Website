@@ -12,7 +12,7 @@ import  Contactbg  from '../assets/contact_bg.mp4';
 const ContactMe = () => {
   const form = useRef();
   const afterSub = () => {
-    window.location.reload();
+//     window.location.reload();
     
   };
 

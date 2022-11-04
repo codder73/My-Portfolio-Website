@@ -21,8 +21,8 @@ const ProjectCardData = [
         imgsrc: pro3,
         title: "My 3Dimensional Class Room in my computer",
         text: "In my school, A child gets admission in the 4th class and gets passed out of the school in the 12th class. When they pass out Every Student then gets an indirect connection to everything present in school like with the classmates, the school building, hostel, etc. And after passing out of school, everyone is not able to come to school and view it. So 3D, VR, etc. are the kind of technologies, that can help them to view these things online at the next level. So then we will get a lot of benefits alike- A person will come to school and he will have to come in the day time, he will have to quit work for one day. And major problem our environment is damaged a lot day by day, from transport pollution, etc. And we are also having a scarcity of fuel on our earth. We can make a 3d model of anything. And the talk of humans. This will be available soon in VR, those will be called metahumans. My essay is getting long, so I would like to say that 'We Must Change Ourself With Time...'",  
-        view: "https://github.com/codder73/Youtube-Video-Downloader",
-        source: "https://github.com/codder73/Youtube-Video-Downloader"
+        view: "https://github.com/codder73/My-3d-Blender-Projects",
+        source: "https://github.com/codder73My-3d-Blender-Projects"
     }
 ]
 

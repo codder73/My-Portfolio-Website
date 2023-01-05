@@ -1,0 +1,21 @@
+.mask2 {
+    margin: auto;
+    padding: 1rem;
+    align-items: middle;
+    text-align: center;
+    width: fit-content;
+    height: 85vh;
+}
+.imger img  {
+    width: 100vw;
+    height: 100vh;
+}
+@media screen and (max-width: 640px) {
+    
+   .mask2{
+    width:100%;
+    height: fit-content;
+    padding: 2px;
+   }
+    
+}

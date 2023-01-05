@@ -2,7 +2,15 @@
     height: auto;
     width: 100%;
     display: flex;
+    background-color: aliceblue;
     text-align: center;
     align-items: center;
-    background-color: aliceblue;
+}
+
+.texta {
+    width: 100vw;
+    align-items: middle;
+    text-align: middle;
+    margin: 0px 100px;
+
 }

@@ -17,7 +17,8 @@ const PricingCard = () => {
                 <p className="btc"> In 3 Dimensions </p>
                 <p> --  Colrful  --</p>
                 <p> -- Using pure blender --</p>
-                <p> --  Responsive Design  --</p>
+                <p> --  Responsive Design  -- </p>
+                <p> -- Animated -- </p>
                 <Link to="/coming" className='btn'>
                     Coming Soon...
                 </Link>
@@ -31,7 +32,8 @@ const PricingCard = () => {
                 <p className="btc">  Advanced NLP  </p>
                 <p> -- 3 Dimensional and VR -- </p>
                 <p> -- An Artificial Doctor -- </p>
-                <p> -- EveryTime available for everyone -- </p>
+                <p> --Always available-- </p>
+                <p>--Decentralised |For future|</p>
                 <Link to="/coming" className='btn'>
                     Coming Soon!
                 </Link>
@@ -39,13 +41,14 @@ const PricingCard = () => {
 
             <div className="card">
                 <h3>
-                    - SAI -
+                    - Cognize -
                 </h3>
                 <span className="bar"></span>
-                <p className="btc">-- Made By Python --</p>
-                <p> -- Have premium features --</p>
-                <p> -- Made in linux & For Linux --</p>
-                <p> -- ShashtraOS Artificial Intelligence -- </p>
+                <p className="btc">-- Failures --</p>
+                <p> -- Learning from them --</p>
+                <p> --  Recursion ☝️ --</p>
+                <p>--But currently in school 😫😩😞-<Link to="/school">-</Link> </p>
+                <p>--Even then I will do it -<Link to="/me">-</Link> </p>
                 <Link to="/coming" className='btn'>
                     Coming Soon!
                 </Link>

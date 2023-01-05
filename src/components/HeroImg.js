@@ -29,7 +29,7 @@ const HeroImg = () => {
                                 "NLP Eye-Opener 🔊-🗣️",
                                 1000,
                                 "VR, 3d Dev ♾️",
-                                1000
+                                1000,
                             ]}/>
                         </h1>
                 </span>

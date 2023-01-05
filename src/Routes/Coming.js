@@ -5,7 +5,7 @@ const Coming = () => {
   return (
         <div className='coming'>
           {/* <Navbar/> */}
-          <h1 className='Heading'>Uploading Soon!</h1>
+          <h1 className='Heading'>Can Be at any height!^</h1>
         </div>
   );
 }

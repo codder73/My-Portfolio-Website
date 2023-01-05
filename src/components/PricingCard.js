@@ -19,7 +19,7 @@ const PricingCard = () => {
                 <p> -- Using pure blender --</p>
                 <p> --  Responsive Design  -- </p>
                 <p> -- Animated -- </p>
-                <Link to="/coming" className='btn'>
+                <Link to="/" className='btn'>
                     Coming Soon...
                 </Link>
             </div>
@@ -34,7 +34,7 @@ const PricingCard = () => {
                 <p> -- An Artificial Doctor -- </p>
                 <p> --Always available-- </p>
                 <p>--Decentralised |For future|</p>
-                <Link to="/coming" className='btn'>
+                <Link to="/" className='btn'>
                     Coming Soon!
                 </Link>
             </div>
@@ -50,7 +50,7 @@ const PricingCard = () => {
                 <p>--But currently in school 😫😩😞-<Link to="/school">-</Link> </p>
                 <p>--Even then I will do it -<Link to="/me">-</Link> </p>
                 <Link to="/coming" className='btn'>
-                    Coming Soon!
+                   Results
                 </Link>
             </div>
 

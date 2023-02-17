@@ -83,7 +83,7 @@ const ContactMe = () => {
               <br />
             </div>
             <div className="submits">
-              <button className="btn" onClick={afterSub} >Send</button>
+              <button className="btn" >Send</button>
             </div>
           </form>
         </div>
